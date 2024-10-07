@@ -1,0 +1,223 @@
+
+#homebody{
+	background-image: url(https://st2.depositphotos.com/11323666/50828/v/450/depositphotos_508283202-stock-illustration-dark-blue-vintage-background-royal.jpg);
+}
+
+h1{
+	color:#d6bb0f;
+    font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size:60px;
+}
+p,table{
+	color:white;
+    font-size:28px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+table,th,td{
+	color:white;
+    border:3px solid white;
+    border-collapse: collapse;
+    padding:9px;
+}
+.head_a{
+    margin-top:-22px;
+    
+}
+
+
+a{
+	text-decoration: none;
+	color:whitesmoke;
+	background-color:black;
+	padding:17px 30px;
+	margin-left:-6px;
+    float:right;
+     /*border-bottom: 3px solid transparent; */
+}
+a:hover{
+    text-shadow:5px 5px 5px white;
+	opacity:0.5;
+	color: #d6bb0f;
+    border-bottom: 3px solid #d6bb0f;
+}
+.bn1{
+    margin-top:100px;
+    width:30%;
+}
+.left{
+    width:300px;
+    height:400px;
+    float:left;
+    margin-left:50px;
+}
+.bn2{
+    width:70%;
+    margin-left:370px;
+    text-align: center;
+    
+}
+.bn3{
+    font-size:30px;
+    font-family: "Lato", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.al{
+    text-align: center;
+    margin-top:70px;
+    margin-left:70px;
+    width:90%;
+}
+.ai1{
+text-align: center;
+}
+.ai2{
+    width:30%;
+    display:inline;
+}
+.ai3{
+    width:70%;
+    text-align: center;
+    margin-left:380px;
+}
+iframe{
+    margin-left:200px;
+}
+.clip1{
+    width:70%;
+}
+.clip2{
+    width:30%;
+    display:inline;
+}
+/*Ravenclaw*/
+
+#ravbody{
+    background-color: rgb(18, 48, 85);
+}
+.header  {
+    width: 100%;
+    height: 100px;
+    margin-top: 74px;
+    font-size: 2.3em;
+    text-align: center;
+    line-height: 12vh;
+    font-weight: 600;
+    color: #e4e7eb;
+    
+}
+.Rav_9{
+    background-color: rgb(19, 37, 61);
+}
+
+img{
+    width:100%;
+    height: 300px;
+    border-radius: 15px;
+}
+.col img:hover {
+    transform: scale(1.05);
+    transition: transform 0.5s ease-in-out;
+}
+/*.row {
+    
+    background-color: black;
+}*/
+.col{
+    width:30%;
+    float:left;
+    text-align: center;
+    padding:20px;
+}
+.row h3{
+    font-family: "Teko", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-weight: 600;
+  font-size:30px;
+}
+.row p{
+    font-family: "Fira Sans Condensed", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size:18px;
+}
+.Rav_11 {
+    color: #a4b3cd;
+}
+
+/*Gryffidor*/
+#grybody{
+    background-color: rgb(89, 28, 30);
+}
+.Gry_9 {
+    background-color: rgb(53, 4, 4);
+}
+
+.Gry_11 {
+    color: #c46c7d;
+}
+/*Slytherin*/
+#slybody{
+    background-color:rgb(7, 49, 42)
+}
+.Sly_9 {
+    background-color: rgb(15, 30, 1);
+}
+
+.Sly_11 {
+    color: #8c9cb9;
+}
+/*Hufflepuff*/
+#hufbody{
+    background-color: rgb(164, 106, 30);
+}
+.Huf_9 {
+    background-color: #4f3304e8;
+}
+.Huf_11 {
+    color: #e4d2c9;
+}
+/*log in*/
+#logbody{
+    background-image:url(backgroud3_.jpg);
+    width:100%;
+    height:100%;
+}
+.title{
+    text-align: center;
+   
+}
+.navhead{
+    margin-top: -100px;
+    margin-bottom:100px;
+}
+.form{
+    text-align: center;
+    border:4px solid #d3e9e5;
+    padding:10px;
+    margin-top: 30px;
+    border-radius: 30px;
+    background-color: rgba(0, 0, 0, 0.5);
+    
+    z-index: -500;
+}
+.kk{
+    color: #d3e9e5;
+    margin: 30px 10px;
+    font-size: 20px;
+    font-weight:1000;
+    z-index:1000;
+}
+.title h1{
+    color: #d3e9e5;
+    font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
